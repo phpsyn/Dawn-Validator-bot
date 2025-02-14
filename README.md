@@ -16,7 +16,7 @@
 ### Install
 1. Clone the project and go to project directory
    ```
-   git clone https://github.com/recitativonika/Dawn-Validator-bot.git
+   git clone https://github.com/phpsyn/Dawn-Validator-bot.git
    ```
    ```
    cd Dawn-Validator-bot
