@@ -1,9 +1,9 @@
 # DAWN Validator Extension automatic claim
 
-## What needed
+## >>> What needed
 - Node JS
 
-## Features
+### >>> Features
 
 - Automatically send keep-alive requests to claim points.
 - Multi-account.
@@ -11,9 +11,9 @@
 - Proxy support.
 
 
-## Installing and setup
+### >>> Installing and setup
 
-### Install
+### >>> Install
 1. Clone the project and go to project directory
    ```
    git clone https://github.com/phpsyn/Dawn-Validator-bot.git
@@ -29,7 +29,7 @@
    ```
    npm i
    ```
-### Setup and run
+### >>> Setup and run
 
 1. Login/register Dawn Validator account and login, get the token in "getpoint?appid=" -> "authorization:" at network tab in inspect element in browser. 
 2. In `Dawn-Validator-bot` directory, Edit and adjust this line in `accounts.js` and save it
@@ -57,11 +57,3 @@
     ```
     node index.js
     ```
-**Note: Do not delete appIds.json file, it store your account appid!**
-	
-Dawn Validator Extension : https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?authuser=0&hl=en
-
-My reff code if you want :) : 
-```bash
-9lv10g33
-```
